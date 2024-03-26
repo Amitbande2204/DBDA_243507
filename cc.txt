@@ -1,0 +1,2 @@
+cloud computing:
+it is a practice to use a network of remote servers to store , manage and process the data rather than using local or physical machines
